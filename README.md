@@ -1,2 +1,2 @@
-# xderhan.github.io
-Blog sederhanagulo.com
+# SEDERHANAGULO.COM
+a simple blog for every day life notes
