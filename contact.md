@@ -1,5 +1,6 @@
 ---
 title: Contact Us
+show_home: True
 ---
 
 # Contact Us
