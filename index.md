@@ -1,5 +1,6 @@
 ---
 title: Home
+show_home: True
 ---
 
 ## Welcome
