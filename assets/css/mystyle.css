@@ -1,4 +1,4 @@
-#main_content p {
+section#main_content p {
   text-align: justify;
   text-justify: inter-word;
 }
